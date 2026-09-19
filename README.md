@@ -1,5 +1,17 @@
 # GDSFF Official Website
 
+> ## Superseded — do not deploy from this repository
+>
+> The live GDSFF site is built and deployed from
+> [`regcoffeenyc/gdsff-launch`](https://github.com/regcoffeenyc/gdsff-launch),
+> which carries this project's history. Of the 63 files here, 61 also exist there.
+> `gdsff-launch/package.json` is still named `gdsff-codex-dropin`, which is the
+> shared lineage.
+>
+> This repository has not changed since 15 March 2026 and is kept for history only.
+> The local paths in the Notes section below point at a Windows desktop and no
+> longer resolve for anyone.
+
 Official Vite/React website for the Georgian Dynamic Shooting & Functional Fitness Federation (GDSFF).
 
 ## Stack
@@ -57,6 +69,6 @@ The site is configured for static deployment with Vite and uses hash-based routi
 
 ## Notes
 
-- Public assets live in [`public`](/C:/Users/User/Desktop/gdsff-codex-dropin/public).
-- Main application code lives in [`src`](/C:/Users/User/Desktop/gdsff-codex-dropin/src).
+- Public assets live in `public`.
+- Main application code lives in `src`.
 - The site is bilingual and supports English and Georgian content from shared content files.
